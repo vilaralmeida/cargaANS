@@ -19,11 +19,11 @@ Para realização da Carga ANS, os seguintes desafios devem ser enfrentados:
 Sprint | Escopo | Prazo
 --- | --- | ---
 1 | Provisionamento de Ambientes (Staging Area, Homologação) + Modelagem de Dados + Definição das Regras de Negócio | 28/Dez/18
-2 | Carga direta dos Dados no Ambiente de Homologação  + Validação das Regras de Negócio | 18/Jan/19
-3 | Automação no Consumo dos Dados e Modelos *Staging Area* | 01/Fev/19
-4 | Sanitização dos Dados | 15/Fev/19
-5 | Automação da Infraestrutura e Processamento | 28/Fev/19
-6 | Revisão da Infra - Ajustes Finais | 15/Mar/19
+2 | Carga direta dos Dados no Ambiente de Homologação  + Validação das Regras de Negócio | 01/Fev/19
+3 | Automação no Consumo dos Dados e Modelos *Staging Area* | 15/Fev/19
+4 | Sanitização dos Dados | 28/Fev/19
+5 | Automação da Infraestrutura e Processamento | 15/Mar/19
+6 | Revisão da Infra - Ajustes Finais | 29/Mar/19
 
 
 
